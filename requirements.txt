@@ -1,0 +1,8 @@
+bandit
+cohesion
+flake8
+pylint
+black
+pdoc3
+sphinx
+coverage
