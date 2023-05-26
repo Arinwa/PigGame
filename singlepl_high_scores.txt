@@ -250,3 +250,79 @@ mode: normal
 name: None, score: <MagicMock name='roll().__radd__()' id='2819465515088'>
 name: BOT, score: 0
 -----------------------
+mode: normal
+name: None, score: 0
+name: BOT, score: 0
+-----------------------
+mode: normal
+name: None, score: <MagicMock name='roll().__radd__()' id='2375221356816'>
+name: BOT, score: 0
+-----------------------
+mode: normal
+name: None, score: 0
+name: BOT, score: 0
+-----------------------
+mode: normal
+name: None, score: <MagicMock name='roll().__radd__()' id='2084556876624'>
+name: BOT, score: 0
+-----------------------
+mode: normal
+name: None, score: 0
+name: BOT, score: 0
+-----------------------
+mode: normal
+name: None, score: <MagicMock name='roll().__radd__()' id='2865220194960'>
+name: BOT, score: 0
+-----------------------
+mode: normal
+name: None, score: 0
+name: BOT, score: 0
+-----------------------
+mode: normal
+name: None, score: <MagicMock name='roll().__radd__()' id='2108782421264'>
+name: BOT, score: 0
+-----------------------
+mode: normal
+name: None, score: 0
+name: BOT, score: 0
+-----------------------
+mode: normal
+name: None, score: <MagicMock name='roll().__radd__()' id='2205983546832'>
+name: BOT, score: 0
+-----------------------
+mode: normal
+name: None, score: 0
+name: BOT, score: 0
+-----------------------
+mode: normal
+name: None, score: <MagicMock name='roll().__radd__()' id='2456771499152'>
+name: BOT, score: 0
+-----------------------
+mode: normal
+name: None, score: 0
+name: BOT, score: 0
+-----------------------
+mode: normal
+name: None, score: <MagicMock name='roll().__radd__()' id='1378051594128'>
+name: BOT, score: 0
+-----------------------
+mode: normal
+name: None, score: 0
+name: BOT, score: 0
+-----------------------
+mode: normal
+name: None, score: <MagicMock name='roll().__radd__()' id='2230096665040'>
+name: BOT, score: 0
+-----------------------
+mode: normal
+name: None, score: 0
+name: BOT, score: 0
+-----------------------
+mode: normal
+name: None, score: <MagicMock name='roll().__radd__()' id='1968389457104'>
+name: BOT, score: 0
+-----------------------
+mode: hard
+name: Fred, score: 2
+name: BOT, score: 0
+-----------------------

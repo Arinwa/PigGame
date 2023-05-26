@@ -436,3 +436,195 @@ name: None, score: 0
 name: None, score: 0
 name: None, score: 6
 -----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: <MagicMock name='roll().__radd__()' id='2375221011408'>
+name: None, score: 0
+-----------------------
+name: None, score: 6
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 6
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: <MagicMock name='roll().__radd__()' id='2084556530832'>
+name: None, score: 0
+-----------------------
+name: None, score: 6
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 6
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: <MagicMock name='roll().__radd__()' id='2865219943376'>
+name: None, score: 0
+-----------------------
+name: None, score: 6
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 6
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: <MagicMock name='roll().__radd__()' id='2108782138128'>
+name: None, score: 0
+-----------------------
+name: None, score: 6
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 6
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: <MagicMock name='roll().__radd__()' id='2205983242064'>
+name: None, score: 0
+-----------------------
+name: None, score: 6
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 6
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: <MagicMock name='roll().__radd__()' id='2456771229776'>
+name: None, score: 0
+-----------------------
+name: None, score: 6
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 6
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: <MagicMock name='roll().__radd__()' id='1378051326032'>
+name: None, score: 0
+-----------------------
+name: None, score: 6
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 6
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: <MagicMock name='roll().__radd__()' id='2230096351632'>
+name: None, score: 0
+-----------------------
+name: None, score: 6
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 6
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 0
+-----------------------
+name: None, score: <MagicMock name='roll().__radd__()' id='1968389149072'>
+name: None, score: 0
+-----------------------
+name: None, score: 6
+name: None, score: 0
+-----------------------
+name: None, score: 0
+name: None, score: 6
+-----------------------
+name: Arinze, score: 10
+name: Fred, score: 100
+-----------------------
